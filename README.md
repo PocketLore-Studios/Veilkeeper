@@ -24,6 +24,11 @@ Currently in active development.
 Early Development  
 Systems-first prototype in progress.
 
+## Maintainer
+
+Created by John Serwatka
+Founder, PocketLore Studios
+
 ## Links
 
 Website: https://veilkeepergame.com  
